@@ -95,7 +95,7 @@ File 2: Bisecting KMeans and kNN classifier
       (overall accuracy, precision for the class 'setosa', recall for the class 'setosa', F-measure for the
       class 'setosa')
 
-# File 4: kNN with cross validation
+# File 3: kNN with cross validation
 For this project, you will learn how to use 10-Fold Cross Validation to estimate the optimal value of k in a KNN classification task.
 You will be using the ‘iris’ dataset.
 Start with your_unity_id_knn_cv.R and fill in the missing content. The “###”s roughly indicate that
@@ -105,7 +105,7 @@ is asked and what the various variables are supposed to contain, especially sinc
 commented. You might want to refresh your memory on cross validation from the textbook -
 page 187.
 
-# File 3: adb: Adaboost classifier using decision stump
+# File 4: adb: Adaboost classifier using decision stump
 Adaboost Classifier
 For this project, you will learn how to implement an Adaboost Classifier .
 You will be using the ‘Ionosphere’ dataset for this part of the project.
